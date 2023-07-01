@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Cheolsoon Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Welcome to my post"
+  location         : "Ansan Gyeonggi-do"
+  email            : "kcs4752@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
