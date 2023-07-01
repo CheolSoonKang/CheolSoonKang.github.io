@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "CheolsoonKang's"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 
+name                     : "취미코딩하는 개발자"
 description              : "welcome to my post."
 url                      : "https://CheolSoonKang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
