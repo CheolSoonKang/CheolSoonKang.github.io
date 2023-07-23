@@ -1,4 +1,5 @@
 ---
+layout : single
 title : "시계열 예측모델(ARIMA)을 이용한 서울기온예측"
 typora-copy-images-to: ..\images
 ---
