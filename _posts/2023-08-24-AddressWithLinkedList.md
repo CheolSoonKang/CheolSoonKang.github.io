@@ -5,8 +5,6 @@ title : "이중연결 리스트를 이용한 주소록(Address With Doublelinked
 
 ##### (본 페이지는 C언어 x86기준으로 작성하였습니다.)
 
-# 이중연결 리스트를 이용한 주소록<br/>(Address With Doublelinked List)
-
 ### 연결 리스트란?
 
 각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조이다. 
