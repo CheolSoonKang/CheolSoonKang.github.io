@@ -37,8 +37,8 @@ weather_Seoul
 
 =======
 >>>>>>> 44eb147bdc3788d073d188bc79272bbc306636fb
-<table border="1" class="dataframe">
-  <thead>
+>>>>>>> <table border="1" class="dataframe">
+>>>>>>>   <thead>
     <tr style="text-align: right;">
       <th></th>
       <th>Date</th>
@@ -264,8 +264,8 @@ scoring(np.array(weather_Seoul[weather_Seoul.Date>=start_index].MeanTemp),np.arr
 
 =======
 >>>>>>> 44eb147bdc3788d073d188bc79272bbc306636fb
-<table border="1" class="dataframe">
-  <thead>
+>>>>>>> <table border="1" class="dataframe">
+>>>>>>>   <thead>
     <tr style="text-align: right;">
       <th></th>
       <th>R2</th>

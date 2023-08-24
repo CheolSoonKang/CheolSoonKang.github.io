@@ -1,14 +1,7 @@
 ---
-
 layout : single
-
 title : "이중연결 리스트를 이용한 주소록(Address With Doublelinked List) with C"
-
-\---
-
-
-
-
+---
 
 ##### (본 페이지는 C언어 x86기준으로 작성하였습니다.)
 

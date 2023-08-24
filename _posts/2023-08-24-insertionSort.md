@@ -1,12 +1,9 @@
-\---
-
+---
 layout : single
-
 title : "삽입 정렬(InsertionSort) with C"
+---
 
-\---
-
-(본 페이지는 C언어 x86기준으로 작성하였습니다.)
+##### (본 페이지는 C언어 x86기준으로 작성하였습니다.)
 
 # 삽입 정렬(InsertionSort)
 
