@@ -1,5 +1,5 @@
 ---
-permalink: /C/insertionSort
+permalink: /CS/insertionSort
 layout : single
 title : "삽입 정렬(InsertionSort) with C"
 ---

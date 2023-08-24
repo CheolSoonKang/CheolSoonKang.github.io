@@ -1,5 +1,5 @@
 ---
-permalink: /C/bubbleSort
+permalink: /CS/bubbleSort
 layout : single
 title : "거품 정렬(BubbleSort) with C"
 ---

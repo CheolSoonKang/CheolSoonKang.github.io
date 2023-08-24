@@ -1,5 +1,5 @@
 ---
-permalink: /C/selectionSort
+permalink: /CS/selectionSort
 layout : single
 title : "선택 정렬(BubbleSort) with C"
 ---
