@@ -1,3 +1,11 @@
+\---
+
+layout : single
+
+title : "거품 정렬(BubbleSort) with C"
+
+\---
+
 ##### (본 페이지는 C언어 x86기준으로 작성하였습니다.)
 
 # 거품 정렬(BubbleSort)
