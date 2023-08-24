@@ -1,4 +1,5 @@
 ---
+permalink: /C/AddressWithDoublelinkedList
 layout : single
 title : "이중연결 리스트를 이용한 주소록(Address With Doublelinked List) with C"
 ---
